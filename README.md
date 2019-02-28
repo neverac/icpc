@@ -9,7 +9,7 @@ WrongAnswer Again and Again
 > 下面的东西记得都学会（误）
 
 
-###ACM 所有算法
+### ACM 所有算法
 数据结构 	
     栈，队列，链表
     哈希表，哈希数组
