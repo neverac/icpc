@@ -10,7 +10,9 @@ WrongAnswer Again and Again
 
 
 ### ACM 所有算法
-数据结构 	
+
+数据结构
+
     栈，队列，链表
     哈希表，哈希数组
     堆，优先队列
